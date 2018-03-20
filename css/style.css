@@ -1,3 +1,6 @@
 #pres-container {
     display: flex;
 }
+.presentation{
+    min-width: 80vh;
+}
