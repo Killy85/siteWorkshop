@@ -1,6 +1,5 @@
-#pres-container {
-    display: flex;
-}
 .presentation{
-    min-width: 80vh;
+    display: flex;
+    flex-direction: column;
+    
 }
